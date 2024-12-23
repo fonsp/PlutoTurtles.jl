@@ -31,3 +31,12 @@ end
 ```
 
 To learn more, [**read the (interactive) featured notebook →**](https://featured.plutojl.org/basic/turtles.html)
+
+# Testimonial
+
+> Hi there @fonsp and friends!  
+> This is not an actual issue, I just wanted to share a nice experience I've had with your package. Last week I was tasked with mentoring a group of students for an intro to programming, one of whom had never coded before (let's call them A). I tried having A do the same tasks as the rest of the group, but it ended up being too difficult since they had never encountered key concepts like variables and loops.  
+> So in the end I had A work on the intro notebook with turtles, and it was a great educational tool! In the beginning A was skeptical, but then they started experimenting on their own by drawing increasingly complex shapes. The definite highlight was when A figured out it was possible to draw a near perfect circle using a regular polygon with enough vertices, Archimedes style 😎 When we said goodbye, A was wondering how to draw a stop sign using only the turtle.  
+> Thanks again for your amazing work!
+
+[gdalle](https://github.com/JuliaPluto/PlutoTurtles.jl/issues/2)
